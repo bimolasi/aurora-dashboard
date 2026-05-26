@@ -1,0 +1,12 @@
+{
+  "name": "aurora-dashboard",
+  "version": "1.0.0",
+  "description": "Multi-chain portfolio tracker",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "bimolasi",
+  "license": "MIT"
+}
